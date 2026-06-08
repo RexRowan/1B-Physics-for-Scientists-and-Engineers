@@ -13,5 +13,3 @@ Welcome to the study blog. Each post captures a chapter summary, a study session
 - [Study Journey: Week 1 reflections](2026-06-08-study-journey.qmd)
 
 ---
-
-You can add new posts below this landing page or create new files inside the `blog/` folder.
