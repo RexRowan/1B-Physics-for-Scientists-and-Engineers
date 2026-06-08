@@ -25,3 +25,8 @@ The topics covered in this class and approximate schedules are listed below. Cha
 | **8** | 24 | Capacitance and dielectrics | 24.5 Molecular model of induced charge and 24.6 Gauss's law in dielectrics |
 | **9** | 25 | Current, resistance, and electromotive force | 25.6 Theory of metallic conduction |
 | **10** | 26 | Direct-current (DC) circuits | 26.5 Power distribution systems |
+
+--- 
+
+### [1A](https://physics-1-series.physics.ucla.edu/index.html)
+### [1C](https://physics-1-series.physics.ucla.edu/table-1c.html)
