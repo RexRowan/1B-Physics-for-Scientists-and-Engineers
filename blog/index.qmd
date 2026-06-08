@@ -1,10 +1,10 @@
 ---
-title: Blog
+title: ""
 summary: Study updates and reflections for Physics 1B.
-format: html
+format:
+  html:
+    title-block: false
 ---
-
-# Physics 1B Blog
 
 Welcome to the study blog. Each post captures a chapter summary, a study session reflection, or a homework review.
 
