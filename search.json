@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "blog/2026-06-08-study-journey.html",
+    "href": "blog/2026-06-08-study-journey.html",
+    "title": "Study Journey: Week 1 reflections",
+    "section": "",
+    "text": "This first post captures the start of the Physics 1B study journey.\n\n\n\nFluid mechanics: density, pressure, buoyancy, and fluid flow\nPeriodic motion: simple harmonic motion, pendulums, and energy in oscillations\n\n\n\n\n\nPressure varies with depth: \\(P = P_0 + \\rho g h\\)\nBuoyant force equals the weight of displaced fluid\nSHM follows the equation \\(x(t)=A\\cos(\\omega t + \\phi)\\)\n\n\n\n\n\nReview the derivation of the restoring force for a mass-spring system\nCompare the energy exchange between kinetic and potential forms in SHM\nPractice applying Bernoulli’s equation to fluid flow problems\n\n\n\n\n\nContinue weekly posts for each new course topic\nAdd homework reflections and solution strategies\nUse the blog as a review resource before quizzes and exams"
+  },
+  {
+    "objectID": "blog/2026-06-08-study-journey.html#topics-covered",
+    "href": "blog/2026-06-08-study-journey.html#topics-covered",
+    "title": "Study Journey: Week 1 reflections",
+    "section": "",
+    "text": "Fluid mechanics: density, pressure, buoyancy, and fluid flow\nPeriodic motion: simple harmonic motion, pendulums, and energy in oscillations"
+  },
+  {
+    "objectID": "blog/2026-06-08-study-journey.html#key-concepts",
+    "href": "blog/2026-06-08-study-journey.html#key-concepts",
+    "title": "Study Journey: Week 1 reflections",
+    "section": "",
+    "text": "Pressure varies with depth: \\(P = P_0 + \\rho g h\\)\nBuoyant force equals the weight of displaced fluid\nSHM follows the equation \\(x(t)=A\\cos(\\omega t + \\phi)\\)"
+  },
+  {
+    "objectID": "blog/2026-06-08-study-journey.html#study-notes",
+    "href": "blog/2026-06-08-study-journey.html#study-notes",
+    "title": "Study Journey: Week 1 reflections",
+    "section": "",
+    "text": "Review the derivation of the restoring force for a mass-spring system\nCompare the energy exchange between kinetic and potential forms in SHM\nPractice applying Bernoulli’s equation to fluid flow problems"
+  },
+  {
+    "objectID": "blog/2026-06-08-study-journey.html#next-steps",
+    "href": "blog/2026-06-08-study-journey.html#next-steps",
+    "title": "Study Journey: Week 1 reflections",
+    "section": "",
+    "text": "Continue weekly posts for each new course topic\nAdd homework reflections and solution strategies\nUse the blog as a review resource before quizzes and exams"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Physics 1B",
+    "section": "",
+    "text": "Instructor: Rossi, G.D.\n\n\n\n\n\n\nEnforced requisites: course 1A, Mathematics 31B, 32A.\nEnforced corequisite: Mathematics 32B.\n\nFluid mechanics, oscillation, mechanical waves, and sound. Electric charge, field and potential, capacitors, and dielectrics. Currents and resistance, direct-current circuits. P/NP or letter grading.\nThe topics covered in this class and approximate schedules are listed below. Chapters listed are from Young and Freedman (Sears and Zemansky’s) University Physics, 14th edition. If a course is taught using the online Kudu textbook, homework, and clicker system, the recommended Kudu course is “UCLA Physics 1B”, which covers the same topics.\n\n\n\n\n\n\n\n\n\nWeek\nChapters\nTopics covered\nOptional sections\n\n\n\n\n1\n12\nFluid mechanics\n12.6 Viscosity and turbulence\n\n\n2\n14\nPeriodic motion\nSkip Ch. 13 Gravitation\n\n\n3\n15\nMechanical waves\n\n\n\n4\n16\nSound\n16.9 Shock waves\n\n\n5\n21\nElectric charge and electric field\n\n\n\n6\n22\nGauss’s law\n22.5 Charges on conductors\n\n\n7\n23\nElectrical potential\n\n\n\n8\n24\nCapacitance and dielectrics\n24.5 Molecular model of induced charge and 24.6 Gauss’s law in dielectrics\n\n\n9\n25\nCurrent, resistance, and electromotive force\n25.6 Theory of metallic conduction\n\n\n10\n26\nDirect-current (DC) circuits\n26.5 Power distribution systems\n\n\n\n\n\n\n├── Lecture-Notes/           # Handwritten or typed notes \n├── Discussion/              # Discussion worksheets\n├── Homework/                # Completed homework assignments and solutions\n└── Resources/               # Syllabus, formula sheets, and midterm/final review guides\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nChapters\nTopics Covered\nDeliverables / Exams\nStatus\n\n\n\n\n1\n12 & 14\nFluid Mechanics & Periodic Motion• Density, pressure, buoyancy, fluid dynamics• Simple harmonic motion, energy in SHM, pendulums\n• HW 1\n🔄 In Progress\n\n\n2\n15 & 16\nMechanical Waves & Sound• Wave types, mathematical description of a wave, string speed• Wave intensity, standing waves, interference, sound, Doppler effect\n• HW 2• Quiz 1\n⬜ Upcoming\n\n\n3\n21 & 22\nElectric Charge, Fields & Gauss’s Law• Coulomb’s Law, electric field calculations, electric dipoles• Electric flux, Gauss’s Law and its applications\n• HW 3• Midterm Exam\n⬜ Upcoming\n\n\n4\n23 & 24\nElectric Potential & Capacitance• Electric potential energy, potential \\(V\\), calculating potential• Capacitors in series/parallel, energy storage, dielectrics\n• HW 4\n⬜ Upcoming\n\n\n5\n25 & 26\nCurrent, Resistance & DC Circuits• Current, resistivity, Ohm’s Law, electromotive force (emf)• Resistors in series/parallel, Kirchhoff’s rules, RC circuits\n• HW 5• Quiz 2\n⬜ Upcoming\n\n\n6\n—\nCatch-up, Electromagnetic Induction & Final Review• Introduction to magnetic fields and induction mechanisms• Comprehensive course review\n• HW 6• Final Exam\n⬜ Upcoming\n\n\n\n\n\n\nProfessor: G.D. Rossi\nCourse materials and problem sets are the intellectual property of UCLA and the Department of Physics & Astronomy."
+  },
+  {
+    "objectID": "about.html#physics-for-scientists-and-engineers-oscillations-waves-electric-and-magnetic-fields",
+    "href": "about.html#physics-for-scientists-and-engineers-oscillations-waves-electric-and-magnetic-fields",
+    "title": "Physics 1B",
+    "section": "",
+    "text": "Instructor: Rossi, G.D."
+  },
+  {
+    "objectID": "about.html#about-the-course",
+    "href": "about.html#about-the-course",
+    "title": "Physics 1B",
+    "section": "",
+    "text": "Enforced requisites: course 1A, Mathematics 31B, 32A.\nEnforced corequisite: Mathematics 32B.\n\nFluid mechanics, oscillation, mechanical waves, and sound. Electric charge, field and potential, capacitors, and dielectrics. Currents and resistance, direct-current circuits. P/NP or letter grading.\nThe topics covered in this class and approximate schedules are listed below. Chapters listed are from Young and Freedman (Sears and Zemansky’s) University Physics, 14th edition. If a course is taught using the online Kudu textbook, homework, and clicker system, the recommended Kudu course is “UCLA Physics 1B”, which covers the same topics.\n\n\n\n\n\n\n\n\n\nWeek\nChapters\nTopics covered\nOptional sections\n\n\n\n\n1\n12\nFluid mechanics\n12.6 Viscosity and turbulence\n\n\n2\n14\nPeriodic motion\nSkip Ch. 13 Gravitation\n\n\n3\n15\nMechanical waves\n\n\n\n4\n16\nSound\n16.9 Shock waves\n\n\n5\n21\nElectric charge and electric field\n\n\n\n6\n22\nGauss’s law\n22.5 Charges on conductors\n\n\n7\n23\nElectrical potential\n\n\n\n8\n24\nCapacitance and dielectrics\n24.5 Molecular model of induced charge and 24.6 Gauss’s law in dielectrics\n\n\n9\n25\nCurrent, resistance, and electromotive force\n25.6 Theory of metallic conduction\n\n\n10\n26\nDirect-current (DC) circuits\n26.5 Power distribution systems"
+  },
+  {
+    "objectID": "about.html#repository-structure",
+    "href": "about.html#repository-structure",
+    "title": "Physics 1B",
+    "section": "",
+    "text": "├── Lecture-Notes/           # Handwritten or typed notes \n├── Discussion/              # Discussion worksheets\n├── Homework/                # Completed homework assignments and solutions\n└── Resources/               # Syllabus, formula sheets, and midterm/final review guides"
+  },
+  {
+    "objectID": "about.html#weekly-schedule-tracker",
+    "href": "about.html#weekly-schedule-tracker",
+    "title": "Physics 1B",
+    "section": "",
+    "text": "Week\nChapters\nTopics Covered\nDeliverables / Exams\nStatus\n\n\n\n\n1\n12 & 14\nFluid Mechanics & Periodic Motion• Density, pressure, buoyancy, fluid dynamics• Simple harmonic motion, energy in SHM, pendulums\n• HW 1\n🔄 In Progress\n\n\n2\n15 & 16\nMechanical Waves & Sound• Wave types, mathematical description of a wave, string speed• Wave intensity, standing waves, interference, sound, Doppler effect\n• HW 2• Quiz 1\n⬜ Upcoming\n\n\n3\n21 & 22\nElectric Charge, Fields & Gauss’s Law• Coulomb’s Law, electric field calculations, electric dipoles• Electric flux, Gauss’s Law and its applications\n• HW 3• Midterm Exam\n⬜ Upcoming\n\n\n4\n23 & 24\nElectric Potential & Capacitance• Electric potential energy, potential \\(V\\), calculating potential• Capacitors in series/parallel, energy storage, dielectrics\n• HW 4\n⬜ Upcoming\n\n\n5\n25 & 26\nCurrent, Resistance & DC Circuits• Current, resistivity, Ohm’s Law, electromotive force (emf)• Resistors in series/parallel, Kirchhoff’s rules, RC circuits\n• HW 5• Quiz 2\n⬜ Upcoming\n\n\n6\n—\nCatch-up, Electromagnetic Induction & Final Review• Introduction to magnetic fields and induction mechanisms• Comprehensive course review\n• HW 6• Final Exam\n⬜ Upcoming"
+  },
+  {
+    "objectID": "about.html#acknowledgments",
+    "href": "about.html#acknowledgments",
+    "title": "Physics 1B",
+    "section": "",
+    "text": "Professor: G.D. Rossi\nCourse materials and problem sets are the intellectual property of UCLA and the Department of Physics & Astronomy."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Physics 1B Study Journey",
+    "section": "",
+    "text": "This site is a study journal for UCLA Physics 1B: Oscillations, Waves, Electric and Magnetic Fields."
+  },
+  {
+    "objectID": "index.html#course-structure",
+    "href": "index.html#course-structure",
+    "title": "Physics 1B Study Journey",
+    "section": "Course structure",
+    "text": "Course structure\n\nWeek 1: Fluid mechanics, pressure, buoyancy, and simple harmonic motion\nWeek 2: Mechanical waves, sound, and oscillatory systems\nWeek 3: Electric charge, electric field, and Gauss’s law\nWeek 4: Electric potential, capacitance, and dielectrics\nWeek 5: Current, resistance, and circuits"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Physics 1B Study Journey",
+    "section": "",
+    "text": "Welcome to the study blog. Each post captures a chapter summary, a study session reflection, or a homework review."
+  },
+  {
+    "objectID": "blog/index.html#recent-posts",
+    "href": "blog/index.html#recent-posts",
+    "title": "Physics 1B Study Journey",
+    "section": "Recent posts",
+    "text": "Recent posts\n\nStudy Journey: Week 1 reflections"
+  }
+]
