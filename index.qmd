@@ -4,7 +4,6 @@ summary: Documenting weekly progress, key insights, and study reflections for UC
 format: html
 ---
 
-# Welcome to My Physics 1B Study Journey
 
 This site is a study journal for UCLA Physics 1B: Oscillations, Waves, Electric and Magnetic Fields.
 
