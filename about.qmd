@@ -1,9 +1,11 @@
 ---
-title: About this Study Journal
+title: ""
 summary: Overview of the Physics 1B study journal and how to use the Quarto blog structure.
-format: html
+format:
+  html:
+    title-block: false
 ---
- 
+
 # [Physics 1B](https://physics-1-series.physics.ucla.edu/table-1b.html)
 
 ## Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields
