@@ -1,0 +1,97 @@
+---
+title: About this Study Journal
+summary: Overview of the Physics 1B study journal and how to use the Quarto blog structure.
+format: html
+---
+
+# About this Study Journal
+
+This Quarto website is designed as a study journal for the UCLA Physics 1B course.
+
+## Purpose
+
+- Capture weekly study notes and reflections
+- Organize concepts by topic and week
+- Keep a running record of homework challenges, discussion points, and exam preparation
+
+## Structure
+
+- `index.qmd` — home page for the study journal
+- `about.qmd` — context for the blog and study goals
+- `blog/` — weekly posts and study updates
+
+## How to add a post
+
+1. Create a new file under `blog/` with a descriptive name.
+2. Add YAML front matter with `title`, `date`, and `categories`.
+3. Write your study notes, examples, and reflections.
+
+## Example post types
+
+- Weekly summaries
+- Homework walkthroughs
+- Concept summaries
+- Exam preparation notes
+
+## Course README
+
+The following content is imported from the repository `README.md` to provide a full course overview here.
+
+# [Physics 1B](https://physics-1-series.physics.ucla.edu/table-1b.html)
+
+## Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields
+### UCLA | Summer Session A6 (6/22 - 7/31)
+**Instructor:** Rossi, G.D.
+
+---
+## 📌 About the Course
+
+* **Enforced requisites:** course 1A, Mathematics 31B, 32A. 
+* **Enforced corequisite:** Mathematics 32B. 
+
+Fluid mechanics, oscillation, mechanical waves, and sound. Electric charge, field and potential, capacitors, and dielectrics. Currents and resistance, direct-current circuits. P/NP or letter grading.
+
+The topics covered in this class and approximate schedules are listed below. Chapters listed are from Young and Freedman (*Sears and Zemansky's*) *University Physics*, 14th edition. If a course is taught using the online Kudu textbook, homework, and clicker system, the recommended Kudu course is "UCLA Physics 1B", which covers the same topics.
+
+| Week | Chapters | Topics covered | Optional sections |
+| :---: | :---: | :--- | :--- |
+| **1** | 12 | Fluid mechanics | 12.6 Viscosity and turbulence |
+| **2** | 14 | Periodic motion | *Skip Ch. 13 Gravitation* |
+| **3** | 15 | Mechanical waves | |
+| **4** | 16 | Sound | 16.9 Shock waves |
+| **5** | 21 | Electric charge and electric field | |
+| **6** | 22 | Gauss's law | 22.5 Charges on conductors |
+| **7** | 23 | Electrical potential | |
+| **8** | 24 | Capacitance and dielectrics | 24.5 Molecular model of induced charge and 24.6 Gauss's law in dielectrics |
+| **9** | 25 | Current, resistance, and electromotive force | 25.6 Theory of metallic conduction |
+| **10** | 26 | Direct-current (DC) circuits | 26.5 Power distribution systems |
+
+## 📂 Repository Structure
+```text
+├── Lecture-Notes/           # Handwritten or typed notes 
+├── Discussion/              # Discussion worksheets
+├── Homework/                # Completed homework assignments and solutions
+└── Resources/               # Syllabus, formula sheets, and midterm/final review guides
+```
+
+## 🗓️ Weekly Schedule Tracker
+
+| Week | Chapters | Topics Covered | Deliverables / Exams | Status |
+| :---: | :---: | :--- | :--- | :---: |
+| **1** | 12 & 14 | **Fluid Mechanics & Periodic Motion**<br>• Density, pressure, buoyancy, fluid dynamics<br>• Simple harmonic motion, energy in SHM, pendulums | • HW 1<br> | 🔄 In Progress |
+| **2** | 15 & 16 | **Mechanical Waves & Sound**<br>• Wave types, mathematical description of a wave, string speed<br>• Wave intensity, standing waves, interference, sound, Doppler effect | • HW 2<br>• Quiz 1 | ⬜ Upcoming |
+| **3** | 21 & 22 | **Electric Charge, Fields & Gauss's Law**<br>• Coulomb's Law, electric field calculations, electric dipoles<br>• Electric flux, Gauss's Law and its applications | • HW 3<br>• **Midterm Exam** | ⬜ Upcoming |
+| **4** | 23 & 24 | **Electric Potential & Capacitance**<br>• Electric potential energy, potential $V$, calculating potential<br>• Capacitors in series/parallel, energy storage, dielectrics | • HW 4<br>  | ⬜ Upcoming |
+| **5** | 25 & 26 | **Current, Resistance & DC Circuits**<br>• Current, resistivity, Ohm's Law, electromotive force (emf)<br>• Resistors in series/parallel, Kirchhoff's rules, RC circuits | • HW 5<br>• Quiz 2 | ⬜ Upcoming |
+| **6** | — | **Catch-up, Electromagnetic Induction & Final Review**<br>• Introduction to magnetic fields and induction mechanisms<br>• Comprehensive course review | • HW 6<br>• **Final Exam** | ⬜ Upcoming |
+## 🤝 Acknowledgments
+
+Professor: G.D. Rossi
+
+Course materials and problem sets are the intellectual property of UCLA and the Department of Physics & Astronomy.
+
+
+## 💻 Related Links
+
+### [1A](https://physics-1-series.physics.ucla.edu/index.html)
+### [1C](https://physics-1-series.physics.ucla.edu/table-1c.html)
