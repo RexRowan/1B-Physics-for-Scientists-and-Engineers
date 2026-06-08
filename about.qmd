@@ -3,40 +3,7 @@ title: About this Study Journal
 summary: Overview of the Physics 1B study journal and how to use the Quarto blog structure.
 format: html
 ---
-
-# About this Study Journal
-
-This Quarto website is designed as a study journal for the UCLA Physics 1B course.
-
-## Purpose
-
-- Capture weekly study notes and reflections
-- Organize concepts by topic and week
-- Keep a running record of homework challenges, discussion points, and exam preparation
-
-## Structure
-
-- `index.qmd` — home page for the study journal
-- `about.qmd` — context for the blog and study goals
-- `blog/` — weekly posts and study updates
-
-## How to add a post
-
-1. Create a new file under `blog/` with a descriptive name.
-2. Add YAML front matter with `title`, `date`, and `categories`.
-3. Write your study notes, examples, and reflections.
-
-## Example post types
-
-- Weekly summaries
-- Homework walkthroughs
-- Concept summaries
-- Exam preparation notes
-
-## Course README
-
-The following content is imported from the repository `README.md` to provide a full course overview here.
-
+ 
 # [Physics 1B](https://physics-1-series.physics.ucla.edu/table-1b.html)
 
 ## Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields
