@@ -5,6 +5,7 @@
 **Instructor:** Rossi, G.D.
 
 ---
+## 📌 About the Course
 
 * **Enforced requisites:** course 1A, Mathematics 31B, 32A. 
 * **Enforced corequisite:** Mathematics 32B. 
@@ -26,7 +27,32 @@ The topics covered in this class and approximate schedules are listed below. Cha
 | **9** | 25 | Current, resistance, and electromotive force | 25.6 Theory of metallic conduction |
 | **10** | 26 | Direct-current (DC) circuits | 26.5 Power distribution systems |
 
---- 
+## 📂 Repository Structure
+```text
+├── Lecture-Notes/           # Handwritten or typed notes 
+├── Discussion/              # Discussion worksheets
+├── Homework/                # Completed homework assignments and solutions
+└── Resources/               # Syllabus, formula sheets, and midterm/final review guides
+```
+
+## 🗓️ Weekly Schedule Tracker
+
+| Week | Chapters | Topics Covered | Deliverables / Exams | Status |
+| :---: | :---: | :--- | :--- | :---: |
+| **1** | 12 & 14 | **Fluid Mechanics & Periodic Motion**<br>• Density, pressure, buoyancy, fluid dynamics<br>• Simple harmonic motion, energy in SHM, pendulums | • HW 1<br> | 🔄 In Progress |
+| **2** | 15 & 16 | **Mechanical Waves & Sound**<br>• Wave types, mathematical description of a wave, string speed<br>• Wave intensity, standing waves, interference, sound, Doppler effect | • HW 2<br>• Quiz 1 | ⬜ Upcoming |
+| **3** | 21 & 22 | **Electric Charge, Fields & Gauss's Law**<br>• Coulomb's Law, electric field calculations, electric dipoles<br>• Electric flux, Gauss's Law and its applications | • HW 3<br>• **Midterm Exam** | ⬜ Upcoming |
+| **4** | 23 & 24 | **Electric Potential & Capacitance**<br>• Electric potential energy, potential $V$, calculating potential<br>• Capacitors in series/parallel, energy storage, dielectrics | • HW 4<br>  | ⬜ Upcoming |
+| **5** | 25 & 26 | **Current, Resistance & DC Circuits**<br>• Current, resistivity, Ohm's Law, electromotive force (emf)<br>• Resistors in series/parallel, Kirchhoff's rules, RC circuits | • HW 5<br>• Quiz 2 | ⬜ Upcoming |
+| **6** | — | **Catch-up, Electromagnetic Induction & Final Review**<br>• Introduction to magnetic fields and induction mechanisms<br>• Comprehensive course review | • HW 6<br>• **Final Exam** | ⬜ Upcoming |
+## 🤝 Acknowledgments
+
+Professor: G.D. Rossi
+
+Course materials and problem sets are the intellectual property of UCLA and the Department of Physics & Astronomy.
+
+
+## 💻 Related Links
 
 ### [1A](https://physics-1-series.physics.ucla.edu/index.html)
 ### [1C](https://physics-1-series.physics.ucla.edu/table-1c.html)
