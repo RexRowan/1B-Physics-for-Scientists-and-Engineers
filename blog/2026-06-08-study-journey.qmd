@@ -1,0 +1,33 @@
+---
+title: "Study Journey: Week 1 reflections"
+date: 2026-06-08
+categories: [Week 1, Fluid Mechanics, Oscillations]
+format: html
+---
+
+# Week 1 Reflections
+
+This first post captures the start of the Physics 1B study journey.
+
+## Topics covered
+
+- Fluid mechanics: density, pressure, buoyancy, and fluid flow
+- Periodic motion: simple harmonic motion, pendulums, and energy in oscillations
+
+## Key concepts
+
+- Pressure varies with depth: $P = P_0 + \rho g h$
+- Buoyant force equals the weight of displaced fluid
+- SHM follows the equation $x(t)=A\cos(\omega t + \phi)$
+
+## Study notes
+
+- Review the derivation of the restoring force for a mass-spring system
+- Compare the energy exchange between kinetic and potential forms in SHM
+- Practice applying Bernoulli's equation to fluid flow problems
+
+## Next steps
+
+- Continue weekly posts for each new course topic
+- Add homework reflections and solution strategies
+- Use the blog as a review resource before quizzes and exams

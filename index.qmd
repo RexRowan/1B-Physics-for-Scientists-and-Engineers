@@ -1,0 +1,27 @@
+---
+title: Physics 1B Study Journey
+summary: Documenting weekly progress, key insights, and study reflections for UCLA Physics 1B.
+format: html
+---
+
+# Welcome to the Physics 1B Study Journey
+
+This site is a study journal for UCLA Physics 1B: Oscillations, Waves, Electric and Magnetic Fields.
+
+- Track weekly progress
+- Capture notes and concepts
+- Reflect on homework, discussions, and study sessions
+
+## Getting started
+
+Use the **Blog** section to write study updates, problem-solving reflections, and summaries of the material covered each week.
+
+## Course structure
+
+- **Week 1:** Fluid mechanics, pressure, buoyancy, and simple harmonic motion
+- **Week 2:** Mechanical waves, sound, and oscillatory systems
+- **Week 3:** Electric charge, electric field, and Gauss's law
+- **Week 4:** Electric potential, capacitance, and dielectrics
+- **Week 5:** Current, resistance, and circuits
+
+> Start a new post in `blog/` for each study session or weekly recap.

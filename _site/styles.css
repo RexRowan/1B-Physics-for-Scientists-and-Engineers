@@ -1,0 +1,59 @@
+body {
+  background: #000000;
+  color: #ffffff; /* keep letters white */
+}
+
+
+a {
+  color: #D4AF37; /* gold */
+}
+
+a:hover {
+  color: #FFD86B; /* lighter gold on hover */
+}
+
+.navbar, .page-header, .page-breadcrumb {
+  background: #D4AF37 !important; /* banner in gold */
+  color: #ffffff;
+  border-top: 1px solid rgba(0,0,0,0.06);
+}
+
+.q-container {
+  background: rgba(7, 7, 7, 0.96);
+  border: 1px solid rgba(212, 175, 55, 0.08);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #D4AF37; /* headings in gold */
+  letter-spacing: -0.03em;
+}
+
+blockquote {
+  border-left: 4px solid #D4AF37;
+  background: rgba(18, 18, 18, 0.9);
+  color: #ffffff;
+}
+
+code, kbd, pre {
+  background: rgba(25, 25, 25, 0.95);
+  color: #ffffff; /* code text in white */
+}
+
+pre {
+  border: 1px solid rgba(212, 175, 55, 0.06);
+  box-shadow: inset 0 0 0 1px rgba(212, 175, 55, 0.02);
+}
+
+hr {
+  border-color: rgba(212, 175, 55, 0.06);
+}
+
+.summary, .callout {
+  background: rgba(12, 12, 12, 0.95);
+  border-color: rgba(212, 175, 55, 0.08);
+}
+
+.page-footer {
+  color: #ffffff; /* keep footer letters white */
+}

@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: Physics 1B Study Journey
+  description: "A study journal for UCLA Physics 1B: Oscillations, Waves, Electric and Magnetic Fields."
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Blog
+        href: blog/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/RexRowan/1B-Physics-for-Scientists-and-Engineers
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+    code-fold: true
+    show-progress: true
+    page-layout: article
+    navbar:
+      background: dark
+      sticky: true
+    favicon: https://quarto.org/favicon.ico
